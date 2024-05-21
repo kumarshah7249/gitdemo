@@ -1,7 +1,7 @@
 ### GIT DEMO PROJECT
 
--My name is Khan
--Teranam hanmay kiea hay
+- My name is Khan
+- Teranam hanmay kiea hay
 
 ````bash
 
